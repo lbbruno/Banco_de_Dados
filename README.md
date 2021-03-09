@@ -5,8 +5,8 @@
 
 ## Modelo conceitual Aeroporto
 * Exercício de abstração de um banco de dados para controle de voos e reservas.
-<img src'Exercícios/Modelo Conceitual/aeroporto_A.png'>
+<img src="/Exercícios/Modelo_Conceitual/aeroporto.png">
 
 ## Modelo conceitual Locadora de DVD's
 * Exercício de abstração de um banco de dados para uma locadora.
-![locadora](Exercícios/Modelo Conceitual/locadora_A.png)
+<img src="/Exercícios/Modelo_Conceitual/locadora.png">
