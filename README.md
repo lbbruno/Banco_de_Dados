@@ -10,7 +10,7 @@
 Cada livro é caracterizado por um ou mais autores, um título, uma editora, local de edição, um código ISBN e um conjunto de palavras-chave.  Cada Autor, além do nome, possui um código para identificá-lo. A editora possui um CNPJ, um nome e local de edição, que constam a rua, cidade e a UF do local. Para cada empréstimo, é registrada a data em que este foi realizado. Cada cliente  possui um código, nome e endereço.
 
 
-<img src="/Exercícios/Modelo_Conceitual/Biblioteca_A.png">
+<img src="/Exercícios/Modelo_Conceitual/Biblioteca_B.png">
 
 ## Modelo conceitual Aeroporto
 * Exercício de abstração de um banco de dados para controle de voos e reservas.
