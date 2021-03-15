@@ -12,7 +12,7 @@ Cada livro é caracterizado por um ou mais autores, um título, uma editora, loc
 
 <img src="/Exercícios/Modelo_Conceitual/Biblioteca_B.png">
 
-* [Dicionario_de Dados_Biblioteca.xlsx](https://github.com/lbbruno/Banco_de_Dados/tree/main/Exerc%C3%ADcios/Dicion%C3%A1rio_de_Dados)
+*Exercícios/Dicionário_de_Dados/[Dicionario_de Dados_Biblioteca.xlsx](https://github.com/lbbruno/Banco_de_Dados/tree/main/Exerc%C3%ADcios/Dicion%C3%A1rio_de_Dados)
 
 ## Modelo conceitual Aeroporto
 * Exercício de abstração de um banco de dados para controle de voos e reservas.
